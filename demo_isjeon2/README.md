@@ -1,8 +1,9 @@
 **스프링배치 - 기도 세션2**
 
 https://github.com/schooldevops/spring-batch-tutorials/blob/12.Listener/01.InitSpringBatch.md
+<img width="1005" alt="image" src="https://github.com/user-attachments/assets/5be0c9ce-2ad6-484c-b737-7554b1950e1b" />
 
-<img src="/Users/1112231/Library/Application Support/typora-user-images/image-20250304195347479.png" alt="image-20250304195347479" style="zoom:50%;" />
+
 
 **1. Spring Batch 기본 개념**
 
