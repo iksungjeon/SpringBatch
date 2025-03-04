@@ -1,0 +1,15 @@
+# H2 DataBase용
+spring:
+  datasource:
+    hikari:
+      maximum-pool-size: 10
+    url: jdbc:h2:mem:testdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+#  batch:
+#   job:
+#     enabled: true
+  main:
+    allow-bean-definition-overriding: true
+    web-application-type: none
