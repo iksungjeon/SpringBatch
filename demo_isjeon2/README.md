@@ -1,6 +1,12 @@
 **스프링배치 - 기도 세션2**
 
 https://github.com/schooldevops/spring-batch-tutorials/blob/12.Listener/01.InitSpringBatch.md
+
+
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/7aeb0080-541c-42f3-9c1e-3da7768040e4" />
+
+
+
 <img width="1005" alt="image" src="https://github.com/user-attachments/assets/5be0c9ce-2ad6-484c-b737-7554b1950e1b" />
 
 
